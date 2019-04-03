@@ -1,1 +1,1 @@
-ngrx-redux
+Angular state management (ngrx-redux)
